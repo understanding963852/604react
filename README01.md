@@ -17,6 +17,7 @@
     node -v
     ```
     을 입력하면 아래 버전이 나오면 설치 완료된것이다.
+    
     ![image](https://github.com/understanding963852/604react/assets/60366769/91059008-7c29-4dfa-b3ab-e80e38c04a12)
 
     * node.js를 설치하면 npm이 자동으로 설치됨
