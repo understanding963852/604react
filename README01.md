@@ -20,7 +20,10 @@
     
     ![image](https://github.com/understanding963852/604react/assets/60366769/91059008-7c29-4dfa-b3ab-e80e38c04a12)
 
-    * node.js를 설치하면 npm이 자동으로 설치됨
+* node.js를 설치하면 npm이 자동으로 설치됨
+* npx는 npm이 설치될때 함께 설치가된다.
+* npm --> 외부라이브러리를 쉽게 설치하고 버전을 관리할수 있게한다--> package.json를 만들게 된다
+* npx --> 라이브러리를 개별적으로 실행하고자 할때 사용하는것임
 
 
 
