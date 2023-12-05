@@ -58,8 +58,14 @@ npm start
 ![image](https://github.com/understanding963852/604react/assets/60366769/00e4ed7d-a620-4da0-bb9d-e18442600819)
 
 # format save 설정하기
+
+
 ![image](https://github.com/understanding963852/604react/assets/60366769/4d4873b2-6a21-404f-a877-db35d12d7628)
+
+
 ![image](https://github.com/understanding963852/604react/assets/60366769/05c4763c-9bdc-4d90-a70d-085b7b6d37b4)
+
+
 ![image](https://github.com/understanding963852/604react/assets/60366769/fd52c02f-e6d8-4ca7-8f93-3f2bbeb38494)
 
 
