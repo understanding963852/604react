@@ -1,4 +1,4 @@
-# 1_ node.js설치
+  # 1_ node.js설치
 * 자바스크립트를 브라우저 밖에서도 동작할수 있게 하는 런타임환경
 * Node.js가 제공하는것이 npm(Node Package Manager)
 * npm이란 node.js로 만들어진 필요한 모듈을 다운받고 관리해줌. 다른 개발자가 만들어둔 유용한 nodeja로 만들어진 툴로 가져다 쓸수 있음
@@ -25,6 +25,37 @@
 * npm --> 외부라이브러리를 쉽게 설치하고 버전을 관리할수 있게한다--> package.json를 만들게 된다
 * npx --> 라이브러리를 개별적으로 실행하고자 할때 사용하는것임
 
+# 1. 폴더 생성
+## - 프로젝트를 만들 폴더를 만든다 ex)my-react
+# 2. 리액트에서 필요한 패키지를 자동으로 설치해 주는 명령어를 입력한다
+```
+npx create-react-app 리액트가실행될폴더명
+아래와 같이 만든다
+npx create-react-app my-app
+```
+my-react>my-app  구조가 만들어진다
+
+my-app폴더 안으로 진입한다
+
+```
+cd my-app
+```
+my-app안에 소스를 실행한다
+
+```
+npm start
+```
+
+# SPA:Single Page Application
+  - 페이지는 하나인데 여러개인것처럼 눈속임을 한다. 페이지가 여러개인것처럼 보이지만 사실은 하나!
+  - 페이지를 매번 새로 가져올 필요가 없음, 웹사이트를 모바일처럼 사용할수 있음.
+
+
+# react 확장프로그램
+- react 기본구조만들기
+![image](https://github.com/understanding963852/604react/assets/60366769/6ec3129f-eab7-44cf-82b4-a19907dec189)
+- react 코드 정렬
+![image](https://github.com/understanding963852/604react/assets/60366769/00e4ed7d-a620-4da0-bb9d-e18442600819)
 
 
 
