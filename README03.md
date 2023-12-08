@@ -5,6 +5,7 @@
 ![image](https://github.com/understanding963852/604react/assets/60366769/ee18b695-4a77-41cf-b196-1fd742825f6d)
 
 # react에서 emmit적용하기--> 태그 자동 완성기능
+
 ![image](https://github.com/understanding963852/604react/assets/60366769/0ad1c6f9-f15e-471c-9bef-ef065c9b8828)
 
 ```
@@ -13,5 +14,6 @@
 
 ![image](https://github.com/understanding963852/604react/assets/60366769/9a26c042-60e6-4222-bdb0-346b2cc53922)
 
+![image](https://github.com/understanding963852/604react/assets/60366769/15e602c7-6fb9-4598-ae6b-1c3ba7ddef76)
 
 
