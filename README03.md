@@ -7,5 +7,9 @@
 # react에서 emmit적용하기--> 태그 자동 완성기능
 ![image](https://github.com/understanding963852/604react/assets/60366769/0ad1c6f9-f15e-471c-9bef-ef065c9b8828)
 
+```
+"emmet.excludeLanguages": {"javascript":"javascriptreact"}
+```
+
 
 
