@@ -17,3 +17,7 @@
 ![image](https://github.com/understanding963852/604react/assets/60366769/15e602c7-6fb9-4598-ae6b-1c3ba7ddef76)
 
 
+
+# 기본 다시 해보기
+![image](https://github.com/understanding963852/604react/assets/60366769/553a842c-96fa-4818-a176-d18e4a499806)
+
