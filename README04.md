@@ -12,6 +12,9 @@ useState(0)의 0은 num의 초기값
 #  부분적으로 값 받기
 ![image](https://github.com/understanding963852/604react/assets/60366769/ccc19021-fd99-4c0f-afa0-c7238c0434c1)
 
+
+# 🥓 구조분해
+
 ```
 import React from "react";
 
@@ -42,3 +45,6 @@ const Profile = ({img,name,title,isNew}) => {
 
 export default Profile;
 ```
+
+
+
