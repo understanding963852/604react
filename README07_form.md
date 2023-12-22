@@ -8,4 +8,8 @@
 # 사용자가 입력한 값을 상태값으로 적용하기위해 e.target.value를 사용한다.
 
 
+# <form onSubmit={(e)=>{e.preventDefault()}}>  
+# form은 새로고침이 일어나는 속성을 가지고 있다. 그래서 이를 막기위해 e.preventDefault()를 사용함
+
+
 ![image](https://github.com/understanding963852/604react/assets/60366769/04c378ca-ae04-450c-80c0-78b85ee02c79)
