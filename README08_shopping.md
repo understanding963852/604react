@@ -4,7 +4,7 @@
 npm install react-router-dom
 ```
 ------------------------------------------------
-```
+
 # RESTful  --> Repersentation State Transfer의 약자 
 # RESTful Routes는 url 패턴을 말한다.
   * get:데이터 가져올때 사용하는 패턴
@@ -13,6 +13,7 @@ npm install react-router-dom
   * delete : 데이터를 삭제할때 사용하는 패턴
 ![image](https://github.com/understanding963852/604react/assets/60366769/156659bc-9b90-4367-b27f-777772a61153)
 
+```
 🍉내가 선택한 상품의 상세페이지로 이동하고자 한다면
   /subjects/:id  방법을 사용하자
   : 이것은 파라미터라는 뜻  --> url로 파라미터값을 넘긴다
