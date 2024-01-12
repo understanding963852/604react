@@ -22,3 +22,12 @@ http://localhost:3000/product/1
 ![image](https://github.com/understanding963852/604react/assets/60366769/22e2b3a8-2aef-4b9a-8700-22324e179728)
 
 
+# 문법  --> ?
+```
+<img src={product?.img} alt="" />
+
+```
+product?.img   ==> product가 있으면 product.img를 출력하라
+
+
+
