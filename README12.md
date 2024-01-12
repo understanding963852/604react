@@ -9,7 +9,7 @@
 ![image](https://github.com/understanding963852/604react/assets/60366769/40b60cea-bfbc-4408-b41b-640e512f44ef)
 
 
-# useParams   
+# 🚛   useParams   
 # react-router-dom 의 hook
 
 ```
